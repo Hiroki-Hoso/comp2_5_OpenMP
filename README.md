@@ -7,7 +7,7 @@
 OpenMPを使って、並列化してください。
 なるべく無駄が生じないループを実現してください。
 
-[![Actions Status](https://github.com/tpu-game-2020/comp2_5_OpenMP/workflows/MSTest/badge.svg)](https://github.com/tpu-game-2020/comp2_5_OpenMP/actions)　
+[![Actions Status](https://github.com/Hiroki-Hoso/comp2_5_OpenMP/workflows/MSTest/badge.svg)](https://github.com/Hiroki-Hoso/comp2_5_OpenMP/actions)　
 
 （このファイルの上の行の[tpu-game-2020]の部分(2か所)を自分のアカウント名に修正してください）
 
